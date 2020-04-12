@@ -1,6 +1,7 @@
-ï»¿#include <iostream>
+#include <iostream>
+#include <string>
 int main()
 {
-	char cha[] = "ä½ å¥½";
-	printf("%s\n", cha);
+	char cha[] = "bbÄãºÃ";
+	std::cout << cha << std::endl;
 }
