@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "shared_ptr_vector", "shared
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "right_ref_test", "right_ref_test\right_ref_test.vcxproj", "{04B8CCD1-5109-4901-B0B8-58175322D3CF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "inherited_names_test", "inherited_names_test\inherited_names_test.vcxproj", "{4A30BB4A-8DEE-468D-BC3C-FC339A197576}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{04B8CCD1-5109-4901-B0B8-58175322D3CF}.Release|x64.Build.0 = Release|x64
 		{04B8CCD1-5109-4901-B0B8-58175322D3CF}.Release|x86.ActiveCfg = Release|Win32
 		{04B8CCD1-5109-4901-B0B8-58175322D3CF}.Release|x86.Build.0 = Release|Win32
+		{4A30BB4A-8DEE-468D-BC3C-FC339A197576}.Debug|x64.ActiveCfg = Debug|x64
+		{4A30BB4A-8DEE-468D-BC3C-FC339A197576}.Debug|x64.Build.0 = Debug|x64
+		{4A30BB4A-8DEE-468D-BC3C-FC339A197576}.Debug|x86.ActiveCfg = Debug|Win32
+		{4A30BB4A-8DEE-468D-BC3C-FC339A197576}.Debug|x86.Build.0 = Debug|Win32
+		{4A30BB4A-8DEE-468D-BC3C-FC339A197576}.Release|x64.ActiveCfg = Release|x64
+		{4A30BB4A-8DEE-468D-BC3C-FC339A197576}.Release|x64.Build.0 = Release|x64
+		{4A30BB4A-8DEE-468D-BC3C-FC339A197576}.Release|x86.ActiveCfg = Release|Win32
+		{4A30BB4A-8DEE-468D-BC3C-FC339A197576}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
