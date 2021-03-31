@@ -1,0 +1,3 @@
+[submodule "subb"]
+	path = subb
+	url = git@github.com:qishi20000/subb.git
